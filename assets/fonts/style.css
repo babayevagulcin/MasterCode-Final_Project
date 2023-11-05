@@ -1,0 +1,72 @@
+@font-face {
+  font-family: "master";
+  src: url("fonts/master.eot?6d2nnq");
+  src: url("fonts/master.eot?6d2nnq#iefix") format("embedded-opentype"),
+    url("fonts/master.ttf?6d2nnq") format("truetype"),
+    url("fonts/master.woff?6d2nnq") format("woff"),
+    url("fonts/master.svg?6d2nnq#master") format("svg");
+  font-weight: normal;
+  font-style: normal;
+  font-display: block;
+}
+
+.master {
+  /* use !important to prevent issues with browser extensions that change fonts */
+  font-family: "master" !important;
+  speak: never;
+  font-style: normal;
+  font-weight: normal;
+  font-variant: normal;
+  text-transform: none;
+  line-height: 1;
+
+  /* Better Font Rendering =========== */
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+}
+
+.icon-menu:before {
+  content: "\e900";
+}
+.icon-list:before {
+  content: "\e901";
+}
+.icon-Group-367-1:before {
+  content: "\e902";
+}
+.icon-Group-367 .path1:before {
+  content: "\e949";
+}
+.icon-Group-367:before {
+  content: "\e9b5";
+  color: rgb(255, 255, 255);
+  background-color: #0086d5;
+  border-radius: 50%;
+  margin-left: 5px;
+}
+.icon-Group-365:before {
+  content: "\e94a";
+}
+.icon-Iconmaterial-email:before {
+  content: "\e94b";
+  color: #fff;
+}
+.icon-Group-319:before {
+  content: "\e94c";
+}
+.icon-Path-1071:before {
+  content: "\e94d";
+}
+.icon-Path-1067:before {
+  content: "\e94e";
+}
+.icon-Path-1066:before {
+  content: "\e971";
+}
+.icon-Group-318:before {
+  content: "\e972";
+}
+.icon-align-center:before {
+  content: "\e973";
+  color: #a6a6a6;
+}
